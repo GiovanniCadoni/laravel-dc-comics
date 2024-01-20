@@ -1,5 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-    <h1>Welcome to laravel</h1>
+    <div class="container fw-bold p-4">
+        <h1 class="text-center">Welcome to Admin Panel</h1>
+    </div>
 @endsection
